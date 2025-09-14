@@ -7,7 +7,7 @@ In my leisure time, I love to build things especially projects that are practica
 
 I'm proficient in several programming languages including **Java**, **JavaScript (JS)**, and **TypeScript (TS)** — with **Java** being my main language and strongest skill set. 
 
-The one project I'm most proud of is [X Crawling System (Java)](https://github.com/dgbao03/x-crawling-system). Feel free to check it out to see what it's about 😁.
+The one project I'm most proud of is [X Accounts Feed Collector (Java)](https://github.com/dgbao03/x-accounts-feed-collector). Feel free to check it out to see what it's about 😁.
 
 You can contact me at: baodo.dev@gmail.com
 
