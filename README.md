@@ -9,7 +9,7 @@ I'm proficient in several programming languages including **Java**, **Python**, 
 
 These are the project I'm most proud of:
 1. [X Accounts Feed Collector (Java)](https://github.com/dgbao03/x-accounts-feed-collector)
-2. [AI Chatbot with Presentation Generation (Python)] (https://github.com/dgbao03/agent_chatbot_backend)
+2. [AI Chatbot with Presentation Generation (Python)](https://github.com/dgbao03/agent_chatbot_backend)
 
 Feel free to check it out to see what it's about 😁
 
